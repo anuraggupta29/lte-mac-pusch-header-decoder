@@ -5,7 +5,7 @@ It helps analyze the MAC header structure of data transmitted over LTE networks 
 
 ---
 
-## 📌 Features
+## Features
 - Convert raw packet data to hex format
 - Decode LTE MAC PUSCH headers (LCID, Header Size, Payload Size, Extension Bits, etc.)
 - Handle multiple packets in a single file
@@ -14,12 +14,13 @@ It helps analyze the MAC header structure of data transmitted over LTE networks 
 
 ---
 
-## 🚀 Usage Example
+## Usage Example
 
 
 ### Example Input
 ```text
-Get the header data in comma or space separated byte, word, word hex or byte hex. Byte example:
+Get the header data in comma or space separated byte, word, word hex or byte hex.
+Byte example:
 61 56 7 33 2 31 0 0
 ```
 
@@ -37,7 +38,7 @@ Converted To Byte Hex:
 ---
 
 ### **Step 2: Decode the MAC Header**
-Run `mac_header_decoder.py` to decode the converted hex data.
+Run `mac_header_decoder.py` to decode the converted hex data (provide the byte hex as input string).
 
 Example Output:
 ```
@@ -57,7 +58,7 @@ To decode multiple packets from a file, use file multiline_mac_header_decoder.py
 
 ---
 
-## 📜 Scripts Provided
+## Scripts Provided
 - **byte_to_byteHex.py** → Converts 8-bit bytes to byte hex format  
 - **word_to_byteHex.py** → Converts 32-bit words to byte hex format  
 - **wordHex_to_byteHex.py** → Converts word hex to byte hex  
@@ -74,3 +75,9 @@ cd lte-mac-pusch-decoder
 ```
 
 Run the decoder scripts as needed using VS Code or any Terminal (Python must be installed)
+
+---
+
+## Author
+- **Anurag Gupta**  
+  [LinkedIn](https://www.linkedin.com/in/anuraggupta29/) | [GitHub](https://github.com/anuraggupta29)
