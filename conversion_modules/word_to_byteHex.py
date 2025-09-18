@@ -1,4 +1,4 @@
-# author : anurag.gupta
+# author : linkedin.com/in/anuraggupta29
 # date   : 30-07-2025
 
 # integer_string = "6176,5855,5,73,5112,12,160,2"  # space or comma separated integer(32 bits)

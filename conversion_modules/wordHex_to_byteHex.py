@@ -1,4 +1,4 @@
-# author : anurag.gupta
+# author : linkedin.com/in/anuraggupta29
 # date   : 30-07-2025
 
 # word_hex_string = "0x12345678 0xffff0000"  # space/comma separated 32bit hex number (may include 0x)

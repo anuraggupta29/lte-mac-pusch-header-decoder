@@ -1,4 +1,4 @@
-# author : anurag.gupta
+# author : linkedin.com/in/anuraggupta29
 # date   : 30-07-2025
 
 # byte_string = "61,58,5,73,51,12,160,2"  # space or comma separated byte(8 bits)

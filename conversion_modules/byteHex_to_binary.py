@@ -1,4 +1,4 @@
-# author : anurag.gupta
+# author : linkedin.com/in/anuraggupta29
 # date   : 30-07-2025
 
 # byte_hex_string = "0x3d 3a 05 49 33 0c a0 02"  # space/comma separated 8bit hex number (may include 0x)

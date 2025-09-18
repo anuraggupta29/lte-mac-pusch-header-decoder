@@ -1,4 +1,4 @@
-#author     : anurag.gupta
+#author     : linkedin.com/in/anuraggupta29
 #date       : 30-07-2025
 #description: This script decodes MAC headers for multiple lines of input
 
