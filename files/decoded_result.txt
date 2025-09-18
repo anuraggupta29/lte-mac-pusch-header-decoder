@@ -1,0 +1,19 @@
+
+
+Count : 0, Packet : 3 152 146 39 73 104 78 75
+
+{'Header Index': 1, 'Sub Header': 'Logical Channel 3', 'LCID': 3, 'Header Size': 1, 'Payload Size': 9999, 'Extension Bit': 0, 'Message': '', 'F2 Bit': 0, 'F Bit': -1}
+{'Padding Stats': '', 'TB Size': 10000, 'Total Decoded Size': 10000, 'Padding Size (exclude Padding CE)': 0}
+
+
+Count : 1, Packet : 62 35 128 246 31 0 0 0
+
+{'Header Index': 1, 'Sub Header': 'Long BSR', 'LCID': 30, 'Header Size': 1, 'Payload Size': 3, 'Extension Bit': 1, 'Message': '', 'F2 Bit': 0, 'F Bit': -1}
+{'Header Index': 2, 'Sub Header': 'Logical Channel 3', 'LCID': 3, 'Header Size': 2, 'Payload Size': 246, 'Extension Bit': 1, 'Message': '', 'F2 Bit': 0, 'F Bit': 1}
+{'Header Index': 3, 'Sub Header': 'Padding', 'LCID': 31, 'Header Size': 1, 'Payload Size': 0, 'Extension Bit': 0, 'Message': '', 'F2 Bit': 0, 'F Bit': -1}
+{'Padding Stats': '', 'TB Size': 10000, 'Total Decoded Size': 253, 'Padding Size (exclude Padding CE)': 9747}
+
+
+Count : 2, Packet : 3 153 171 254 176 192 37 175
+{'Header Index': 1, 'Sub Header': 'Logical Channel 3', 'LCID': 3, 'Header Size': 1, 'Payload Size': 9999, 'Extension Bit': 0, 'Message': '', 'F2 Bit': 0, 'F Bit': -1}
+{'Padding Stats': '', 'TB Size': 10000, 'Total Decoded Size': 10000, 'Padding Size (exclude Padding CE)': 0}
