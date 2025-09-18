@@ -66,14 +66,9 @@ To decode multiple packets from a file, use file multiline_mac_header_decoder.py
 
 ---
 
-## 🛠 Installation & Setup
+## Installation & Setup
 
-Clone the repository:
-```bash
-git clone https://github.com/your-username/lte-mac-pusch-decoder.git
-cd lte-mac-pusch-decoder
-```
-
+Clone the repository.
 Run the decoder scripts as needed using VS Code or any Terminal (Python must be installed)
 
 ---
